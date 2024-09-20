@@ -1,2 +1,2 @@
 # python_rts_system
-A basic outline for a RTS system, it's pretty bad I wouldn't copy it.
+A very rudimentary rts engine written in python using the pygame library.
